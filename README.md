@@ -20,7 +20,7 @@ Since 2004, I've founded about 5 different startups:
 
 I've closed them all now.
 
-We were in Techstars Berlin 2017 - some of the best times of my startup life were spent between Berlin and Shoreditch. If you were in Techstars too, you can find my on Discord.
+We were in Techstars Berlin 2017 - some of the best times of my startup life were spent between Berlin and Shoreditch. If you were in Techstars too, you can find me on Discord.
 
 ## Software languages
 
