@@ -1,10 +1,14 @@
+## Intro
+
+A hands-on CTO and software engineer. I love creating solutions for problems that seem impossible to solve. Boring is my mantra - as engineers we all want to learn new stuff but the work-place is the wrong-place for this kind of learning. Learn stuff out of hours, let it inspire your work. Keep work boring.
+
 ## Work Stuff
 
-A hands-on CTO and software engineer. I love creating solutions for problems that seem impossible to solve.
-
-As of November 2022, I'm the CTO at a Crypto exchange. It's quite a strange space to work. Over a couple years, I've done a bunch of cool software type things that have helped them continue to succeed. Turns out I'm also quite a motivating and driven manager of people. 
+As of November 2022, I'm the CTO at a Crypto exchange. It's quite a strange space to work. Over a couple years, I've done a bunch of cool software type things that have helped them continue to succeed. Turns out I'm also quite a motivating and driven manager of people.
 
 I've written bots to automate trades and balance their liquidity pools. I re-wrote their entire trading platform and API. Introduced a bunch of new crypto currencies. Added support for FIAT currencies. Wrote some solidity contracts to process inbound and outbound ETH and ERC20 transactions. Hired a bunch of developers. Built and implemented compliance rules and systems so they could get a licence to trade. Integrated a custodian and cold wallet provider to secure their funds. I also helped them release their own stablecoin via an "IBCO".
+
+## Startup Life
 
 Since 2004, I've founded about 5 different startups:
 
@@ -16,13 +20,15 @@ Since 2004, I've founded about 5 different startups:
 
 I've closed them all now.
 
+We were in Techstars Berlin 2017 - some of the best times of my startup life were spent between Berlin and Shoreditch. If you were in Techstars too, you can find my on Discord.
+
 ## Software languages
 
 I've used the following extensively in production environments:
 
 Golang, Python, Solidity, Javascript, NodeJS, Ruby.
 
-Other stuff:
+### Other stuff:
 
 I love using Jupyter notebooks, Pandas etc. Have done some ML stuff at Cucumber Tony where we were learning from the WiFi data that we'd stored.
 
@@ -48,11 +54,16 @@ I cycle and run pretty much every day. I read a lot of books, anything I can get
 
 My family and I have an allotment where we grow a bunch of tasty fruit and vegetables. We also have some bees! I built a "bee monitor" using a raspberry PI.
 
-
 ## This Blog
 
-Oringally, I wrote it using markdown, and Gatsby. And Cloudflare's Workers. This seemed like a good idea at the time. Months went by and I didn't update any blogs. Then one day, when inspiration hit, I came to write something and couldn't get Gatsby to work. Some dependency nonsense.
+Originally I built it using markdown, and Gatsby and hosted on Cloudflare's Workers. I guess I really wanted to play with workers and the themes for Gatsby were fab!
+
+As usual, months went by without a blog post. I got an M2 Macbook. When inspiration finally hit, Gatsby wouldn't work. Dependancy hell. I went down the rabbit hole and then remember I'm supposed to be having fun, not fixing stupid issues. 
 
 This is my beef with so much open-source stuff we tend to rely on. It changes so much and, while they mostly all promise to be 'backwards compatible', they rarely are.
 
-So, I'm back on good old Github pages.
+So, I'm back on good old Github pages. I like this boring approach to technology.
+
+## My Other Blog
+
+Thinking of putting all my recent posts on Medium, will post a link here when I do.
