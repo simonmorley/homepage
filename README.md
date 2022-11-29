@@ -12,7 +12,7 @@ Since 2004, I've founded about 5 different startups:
 - PolkaSpots: WiFi Hotspots and Installations
 - Perched: AirBnb for kitchens
 - Phil: contactless payment services for homeless people
-- MIMO: Open-source WiFi splash pages and marketting tools
+- MIMO: Open-source WiFi splash pages and marketing tools
 
 I've closed them all now.
 
@@ -51,4 +51,8 @@ My family and I have an allotment where we grow a bunch of tasty fruit and veget
 
 ## This Blog
 
-I wrote it using markdown
+Oringally, I wrote it using markdown, and Gatsby. And Cloudflare's Workers. This seemed like a good idea at the time. Months went by and I didn't update any blogs. Then one day, when inspiration hit, I came to write something and couldn't get Gatsby to work. Some dependency nonsense.
+
+This is my beef with so much open-source stuff we tend to rely on. It changes so much and, while they mostly all promise to be 'backwards compatible', they rarely are.
+
+So, I'm back on good old Github pages.
