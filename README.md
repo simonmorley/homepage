@@ -4,7 +4,7 @@ A hands-on CTO and software engineer. I love creating solutions for problems tha
 
 ## Work Stuff
 
-As of November 2022, I'm the CTO at a Crypto exchange. It's quite a strange space to work. Over a couple years, I've done a bunch of cool software type things that have helped them continue to succeed. Turns out I'm also quite a motivating and driven manager of people.
+As of November 2022, I'm the CTO at a Crypto exchange called Vaultoro. Since I joined, I've done a bunch of cool software type things that have helped them continue to succeed. Turns out I'm also quite a motivating and driven manager of people.
 
 I've written bots to automate trades and balance their liquidity pools. I re-wrote their entire trading platform and API. Introduced a bunch of new crypto currencies. Added support for FIAT currencies. Wrote some solidity contracts to process inbound and outbound ETH and ERC20 transactions. Hired a bunch of developers. Built and implemented compliance rules and systems so they could get a licence to trade. Integrated a custodian and cold wallet provider to secure their funds. I also helped them release their own stablecoin via an "IBCO".
 
@@ -12,13 +12,11 @@ I've written bots to automate trades and balance their liquidity pools. I re-wro
 
 Since 2004, I've founded about 5 different startups:
 
-- Cucumber Tony: Remote management solution for WiFi access points
-- PolkaSpots: WiFi Hotspots and Installations
+- Cucumber Tony: Cloud-based remote management of WiFi access points
+- PolkaSpots: Public WiFi Hotspots and networking installation service
 - Perched: AirBnb for kitchens
-- Phil: contactless payment services for homeless people
+- Phil: Contactless payment services for homeless people
 - [MIMO](https://github.com/mimolabs): Open-source WiFi splash pages and marketing tools
-
-I've closed them all now.
 
 We were in Techstars Berlin 2017 - some of the best times of my startup life were spent between Berlin and Shoreditch. If you were in Techstars too, you can find me on Discord.
 
