@@ -20,6 +20,8 @@ Since 2004, I've founded about 5 different startups:
 
 We were in Techstars Berlin 2017 - some of the best times of my startup life were spent between Berlin and Shoreditch. If you were in Techstars too, you can find me on Discord.
 
+The company I currently work at (Vaultoro) was also on the Techstars program and is still 100% in start-up mode :)
+
 ## Software languages
 
 I've used the following extensively in production environments:
@@ -37,6 +39,12 @@ I'm currently learning c++. I've written software for embedded devices using c. 
 I've automated pretty much everything at all the companies I've worked at using Kubernetes mostly. 
 
 Kubernetes, Google Cloud, CI (Jenkins, Circle, Cloud Builds, GH Actions), Cloudflare.
+
+For the production Kubernetes clusters I've run over the last 5 or so years, I've focused on self-healing services. By ensuring everything will recreate itself after deletion etc, I've managed to keep things running with little or no downtime. I started this approach after using the preemptable instances Google offer - machines that don't live for longer than 24 hours.
+
+Not only does this keep costs down, it *forces* you to build services that recover quickly.
+
+The most complicated deployment was to ensure the certificates for thousands of WiFi devices rotated. If they didn't, it was possible that they'd all go offline. I solved this using kubernetes, pubsub listeners, a bunch of python and letsencrypt.
 
 ## Crypto Development
 
