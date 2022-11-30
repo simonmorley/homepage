@@ -16,7 +16,7 @@ Since 2004, I've founded about 5 different startups:
 - PolkaSpots: WiFi Hotspots and Installations
 - Perched: AirBnb for kitchens
 - Phil: contactless payment services for homeless people
-- MIMO: Open-source WiFi splash pages and marketing tools
+- [MIMO](https://github.com/mimolabs): Open-source WiFi splash pages and marketing tools
 
 I've closed them all now.
 
@@ -55,6 +55,10 @@ Other than Ethereum, I've built numerous systems on other blockchains, include B
 Whilst building Cucumber Tony and PolkaSpots, I had to learn a bunch of networking / UNIX / linux stuff. In fact, since I founded those companies before such things as AWS, I had to do all the server management too. I also wrote some custom pacakges for OpenWRT in c which facilitated the remote management of thousands of WiFi access points around the world. The biggest one was called [Socketman](https://github.com/mylittletony/SocketMan).
 
 One such project, called Rascal, listened for WiFi probes and we were considering using it for some kind of analytics service. However, upon writing this, I realised how intrusive the whole thing was. It was at this point, I decided not to turn Cucumber Tony into an analytics service for moral reasons. There's a link to that [here](https://github.com/mylittletony/rascal).
+
+Our platform mostly used [MQTT](https://mqtt.org/) to communicate with our WiFi devices. I built a Golang based backend to send and receive messages from these devices. It was pretty fun (and stressful) building this. At one point, we had about 5,000 WiFi access points connected to the system.
+
+We also figured out a way for Meraki customers to flash their defunct access points with our firmware. This allowed them to skip all the license costs etc - we weren't so popular with Cisco at the time. Ooops.
 
 ## Non Work Stuff
 
