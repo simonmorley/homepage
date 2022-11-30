@@ -42,7 +42,7 @@ Kubernetes, Google Cloud, CI (Jenkins, Circle, Cloud Builds, GH Actions), Cloudf
 
 ## Crypto Development
 
-I've written a bunch of Solidity contracts which are now live on mainnet. These ranged from proxy contracts, ERC20 contracts and entire platforms to launch a stablecoin. The deployment of these contracts was mostly done using Hardhat, with some Remix in there too. I've also implemented a Geth node on Kubernetes, and built a bunch of integrations around this. 
+I've spend a couple of years developing Solidity contracts on the Ethereum blockchain. These ranged from proxy contracts, ERC20 contracts and entire platforms to launch a stablecoin, including a couple of NFTs... The deployment of these contracts was mostly done using Hardhat, with some Remix in there too. I've also implemented a Geth node on Kubernetes, and built a bunch of integrations around this. 
 
 For the stablecoin launch, we build a platform which allowed users to swap their 'Cryptos' for sEURO. We also built a bonding service on top of Uniswap's V3 liquidity pool. And we also built a staking service that used ERC721 tokens (aka NFTs) to redeem the 'stakes'.
 
