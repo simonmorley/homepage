@@ -28,6 +28,8 @@ I've used the following extensively in production environments:
 
 Golang, Python, Solidity, Javascript, NodeJS, Ruby.
 
+I've also extensively used Postgres, MySQL, Mongo, BigQuery, BigTable, Influx, Redis, Docker, Elasticsearch etc.
+
 ### Other stuff:
 
 I love using Jupyter notebooks, Pandas etc. Have done some ML stuff at Cucumber Tony where we were learning from the WiFi data that we'd stored.
