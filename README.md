@@ -50,7 +50,7 @@ The most complicated deployment was to ensure the certificates for thousands of 
 
 ## Crypto Development
 
-I've spend a couple of years developing Solidity contracts on the Ethereum blockchain. These ranged from proxy contracts, ERC20 contracts and entire platforms to launch a stablecoin, including a couple of NFTs... The deployment of these contracts was mostly done using Hardhat, with some Remix in there too. I've also implemented a Geth node on Kubernetes, and built a bunch of integrations around this. 
+I've spent a couple of years developing Solidity contracts on the Ethereum blockchain. These ranged from proxy contracts, ERC20 contracts and entire platforms to launch a stablecoin, including a couple of NFTs... The deployment of these contracts was mostly done using Hardhat, with some Remix in there too. I've also implemented a Geth node on Kubernetes, and built a bunch of integrations around this. 
 
 For the stablecoin launch, we build a platform which allowed users to swap their 'Cryptos' for sEURO. We also built a bonding service on top of Uniswap's V3 liquidity pool. And we also built a staking service that used ERC721 tokens (aka NFTs) to redeem the 'stakes'.
 
@@ -70,22 +70,9 @@ We also figured out a way for Meraki customers to flash their defunct access poi
 
 ## Non Work Stuff
 
-I took a year off to become a professional Ironman. Sadly that didn't work out because COVID caused all the races to be cancelled. But I can however still call myself an Ironman!
+I took a year off to become a professional Ironman, just before COVID happened and all the races were cancelled.
 
 I cycle and run pretty much every day. I read a lot of books, anything I can get my hands on really although I did NOT enjoy Ulysses, nor could I finish it.
 
 My family and I have an allotment where we grow a bunch of tasty fruit and vegetables. We also have some bees! I built a "bee monitor" using a raspberry PI.
 
-## This Blog
-
-Originally I built it using markdown, and Gatsby and hosted on Cloudflare's Workers. I guess I really wanted to play with workers and the themes for Gatsby were fab!
-
-As usual, months went by without a blog post. I got an M2 Macbook. When inspiration finally hit, Gatsby wouldn't work. Dependancy hell. I went down the rabbit hole and then remember I'm supposed to be having fun, not fixing stupid issues. 
-
-This is my beef with so much open-source stuff we tend to rely on. It changes so much and, while they mostly all promise to be 'backwards compatible', they rarely are.
-
-So, I'm back on good old Github pages. I like this boring approach to technology.
-
-## My Other Blog
-
-Thinking of putting all my recent posts on Medium, will post a link here when I do.
